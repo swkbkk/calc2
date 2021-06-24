@@ -1,1 +1,2 @@
+Add from calc2
 This is the content of b
